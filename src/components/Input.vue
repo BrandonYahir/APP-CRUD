@@ -36,7 +36,7 @@
         value="urgente"
         v-model="tarea.estado"
         >
-        <label for="radio-1" class="form-check-label">Muy Necesario</label>
+        <label for="radio-1" class="form-check-label">URGENTE</label>
 
       </div>
       <div class="form-check form-check-inline">
@@ -47,7 +47,7 @@
         value="relax"
         v-model="tarea.estado"
         >
-        <label for="radio-1" class="form-check-label">Tranqui</label>
+        <label for="radio-1" class="form-check-label">RELAX</label>
 
       </div>
 
