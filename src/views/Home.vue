@@ -13,8 +13,9 @@
   <div class="inicio">
      
   </div>
-  <h1 class="nombre">Yatziry Pacheco Nuñez
-      <br>4°A DSM AWS
+  <h1 class="nombre">Brandon Yahir Flores Vazquez
+      <br>4°A Tecnologias de la Informacion Desarrollo de Software Multiplataforma
+      <br>Aplicaciones Web Orientadas a Servicios
     </h1>
 </template>
 
@@ -82,12 +83,8 @@ methods: {
 .nombre {
   text-align:center;
   font-size: 15px;
-  background: black;
-  box-shadow: rgb(189, 189, 183) 5px 10px 10px ;
+  background: green;
   background-size: 50px;
-  /* border-radius:5px; */
-  color:rgb(248, 248, 248);
-
   border-width:2px;
    border-color:#fafaf8;
    border-style: solid dashed ;
