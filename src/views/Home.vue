@@ -86,8 +86,7 @@ methods: {
   background: green;
   background-size: 50px;
   border-width:2px;
-   border-color:#fafaf8;
-   border-style: solid dashed ;
+   border-color:#000000;
    margin: 70px 100px ;
 }
 
